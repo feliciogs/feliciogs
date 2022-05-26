@@ -1,7 +1,5 @@
 ### Olá, sou o Felicio 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com desenvolvimento Android 
 - 🌱 Atualmente estudando código limpo e padrões de projetos
 
