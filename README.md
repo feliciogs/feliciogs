@@ -1,7 +1,7 @@
 ### Olá, sou o Felicio 👋
 
 - 🔭 Hoje trabalho com desenvolvimento Android 
-- 🌱 Atualmente estudando código limpo e padrões de projetos
+- 🌱 Atualmente estudando Kotlin e padrões de projetos
 
 <div align="center">
   <a href="https://github.com/feliciogs">
