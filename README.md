@@ -1,7 +1,7 @@
 ### Olá, sou o Felicio 👋
 
 - 🔭 Hoje trabalho com desenvolvimento Android 
-- 🌱 Atualmente estudando Kotlin e padrões de projetos
+- 🌱 Atualmente estudando Jetpack Compose e KMP
 
 <div align="center">
   <a href="https://github.com/feliciogs">
